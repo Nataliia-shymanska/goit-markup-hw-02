@@ -37,7 +37,7 @@ body {
 .navigation-menu-link:focus {
   color: #404bbf;
 }
-.navigation-menu-link.active:active {
+.navigation-menu-link:active {
   color: #404bbf;
 }
 .address-menu-link {
